@@ -97,18 +97,18 @@ def extract_tables_from_html(folder):
     return all_tables
 
 def main():
-    # batch_id, urls = apply_upload_url(FILE_PATH)
-    # upload_file(urls[0], FILE_PATH)
+    batch_id, urls = apply_upload_url(FILE_PATH)
+    upload_file(urls[0], FILE_PATH)
 
-    # zip_url = wait_extract_done(batch_id)
+    zip_url = wait_extract_done(batch_id)
 
-    # zip_path = f"{batch_id}.zip"
-    # download_zip(zip_url, zip_path)
+    zip_path = f"{batch_id}.zip"
+    download_zip(zip_url, zip_path)
 
-    # extract_dir = f"extract_{batch_id}"
-    # unzip_file(zip_path, extract_dir)
+    extract_dir = f"extract_{batch_id}"
+    unzip_file(zip_path, extract_dir)
 
-    tables_dict = extract_tables_from_html(r"H:\CODE\excel\shipping work\68621c4b-3384-4682-8567-08787522f96e")
+    tables_dict = extract_tables_from_html(extract_dir)
 
     for table in tables_dict:
         print("来源文件:", table["file"])

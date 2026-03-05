@@ -1,0 +1,330 @@
+{
+  "extract_dir": "/Users/hanjiahe/code/shippingwork/extract_c3161636-8bca-4fc9-86d4-86708ab1d3e1",
+  "results": [
+    {
+      "source": "full.md",
+      "kv": {
+        "Request By": "CTCF0951李能",
+        "Date": "11/27/2025",
+        "Request No": "SPOCTC2515310",
+        "Order Number": "SE128076",
+        "Ship to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Ship To Address": "广州市黄埔区永吉路39号",
+        "Supplier": "907315",
+        "Invoice to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Supplier Name": "乾大新材料有限公司",
+        "Supplier mail Address": "wull@kingdomsh.com.cn;lucy@kingdomsh.com.cn;yew@kingdomsh.com.cn",
+        "Project": "86B71 Xpeng X3 HTSAB",
+        "Cost Center": "371A EN AB",
+        "Supplier Addr": "浙江嘉善县姚庄镇万泰路155号",
+        "Plant Project Logistics": "Betty.Chen@autoliv.com",
+        "Supplier Telephone": "0573-84861888",
+        "Buyer": "yonglong.chen@autoliv.com",
+        "Credit Terms": "N120P",
+        "WareHouse Receiver": "GuangLin Wu(18684584436)",
+        "Incoterm": "VMI",
+        "Receive Day": "12/05/2025"
+      },
+      "remark": "X3 HTSAB包布",
+      "items": [
+        {
+          "ID": "1",
+          "Part Number": "XA6719 28800A",
+          "Part Description": "WRAPPER,LH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        },
+        {
+          "ID": "2",
+          "Part Number": "XA6719 29000A",
+          "Part Description": "WRAPPER,RH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        }
+      ],
+      "totals": {
+        "非应纳税 Non-Taxable": "0",
+        "货币 Currency": "CNY",
+        "项目合计 LineTotal": "371.1250",
+        "应纳税 Taxable": "419.37000",
+        "税款合计 TotalTax": "48.24624",
+        "定税日期 TaxDate": "11/27/2025",
+        "合计 Total": "419.37124"
+      }
+    },
+    {
+      "source": "content_list_v2.json",
+      "kv": {
+        "Request By": "CTCF0951李能",
+        "Date": "11/27/2025",
+        "Request No": "SPOCTC2515310",
+        "Order Number": "SE128076",
+        "Ship to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Ship To Address": "广州市黄埔区永吉路39号",
+        "Supplier": "907315",
+        "Invoice to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Supplier Name": "乾大新材料有限公司",
+        "Supplier mail Address": "wull@kingdomsh.com.cn;lucy@kingdomsh.com.cn;yew@kingdomsh.com.cn",
+        "Project": "86B71 Xpeng X3 HTSAB",
+        "Cost Center": "371A EN AB",
+        "Supplier Addr": "浙江嘉善县姚庄镇万泰路155号",
+        "Plant Project Logistics": "Betty.Chen@autoliv.com",
+        "Supplier Telephone": "0573-84861888",
+        "Buyer": "yonglong.chen@autoliv.com",
+        "Credit Terms": "N120P",
+        "WareHouse Receiver": "GuangLin Wu(18684584436)",
+        "Incoterm": "VMI",
+        "Receive Day": "12/05/2025"
+      },
+      "remark": "X3 HTSAB包布",
+      "items": [
+        {
+          "ID": "1",
+          "Part Number": "XA6719 28800A",
+          "Part Description": "WRAPPER,LH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        },
+        {
+          "ID": "2",
+          "Part Number": "XA6719 29000A",
+          "Part Description": "WRAPPER,RH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        }
+      ],
+      "totals": {
+        "非应纳税 Non-Taxable": "0",
+        "货币 Currency": "CNY",
+        "项目合计 LineTotal": "371.1250",
+        "应纳税 Taxable": "419.37000",
+        "税款合计 TotalTax": "48.24624",
+        "定税日期 TaxDate": "11/27/2025",
+        "合计 Total": "419.37124"
+      }
+    },
+    {
+      "source": "dc01a4c7-0028-4c1f-8ee9-f752e8be1bf8_model.json",
+      "kv": {
+        "Request By": "CTCF0951李能",
+        "Date": "11/27/2025",
+        "Request No": "SPOCTC2515310",
+        "Order Number": "SE128076",
+        "Ship to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Ship To Address": "广州市黄埔区永吉路39号",
+        "Supplier": "907315",
+        "Invoice to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Supplier Name": "乾大新材料有限公司",
+        "Supplier mail Address": "wull@kingdomsh.com.cn;lucy@kingdomsh.com.cn;yew@kingdomsh.com.cn",
+        "Project": "86B71 Xpeng X3 HTSAB",
+        "Cost Center": "371A EN AB",
+        "Supplier Addr": "浙江嘉善县姚庄镇万泰路155号",
+        "Plant Project Logistics": "Betty.Chen@autoliv.com",
+        "Supplier Telephone": "0573-84861888",
+        "Buyer": "yonglong.chen@autoliv.com",
+        "Credit Terms": "N120P",
+        "WareHouse Receiver": "GuangLin Wu(18684584436)",
+        "Incoterm": "VMI",
+        "Receive Day": "12/05/2025"
+      },
+      "remark": "X3 HTSAB包布",
+      "items": [
+        {
+          "ID": "1",
+          "Part Number": "XA6719 28800A",
+          "Part Description": "WRAPPER,LH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        },
+        {
+          "ID": "2",
+          "Part Number": "XA6719 29000A",
+          "Part Description": "WRAPPER,RH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        }
+      ],
+      "totals": {
+        "非应纳税 Non-Taxable": "0",
+        "货币 Currency": "CNY",
+        "项目合计 LineTotal": "371.1250",
+        "应纳税 Taxable": "419.37000",
+        "税款合计 TotalTax": "48.24624",
+        "定税日期 TaxDate": "11/27/2025",
+        "合计 Total": "419.37124"
+      }
+    },
+    {
+      "source": "layout.json",
+      "kv": {
+        "Request By": "CTCF0951李能",
+        "Date": "11/27/2025",
+        "Request No": "SPOCTC2515310",
+        "Order Number": "SE128076",
+        "Ship to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Ship To Address": "广州市黄埔区永吉路39号",
+        "Supplier": "907315",
+        "Invoice to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Supplier Name": "乾大新材料有限公司",
+        "Supplier mail Address": "wull@kingdomsh.com.cn;lucy@kingdomsh.com.cn;yew@kingdomsh.com.cn",
+        "Project": "86B71 Xpeng X3 HTSAB",
+        "Cost Center": "371A EN AB",
+        "Supplier Addr": "浙江嘉善县姚庄镇万泰路155号",
+        "Plant Project Logistics": "Betty.Chen@autoliv.com",
+        "Supplier Telephone": "0573-84861888",
+        "Buyer": "yonglong.chen@autoliv.com",
+        "Credit Terms": "N120P",
+        "WareHouse Receiver": "GuangLin Wu(18684584436)",
+        "Incoterm": "VMI",
+        "Receive Day": "12/05/2025"
+      },
+      "remark": "X3 HTSAB包布",
+      "items": [
+        {
+          "ID": "1",
+          "Part Number": "XA6719 28800A",
+          "Part Description": "WRAPPER,LH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        },
+        {
+          "ID": "2",
+          "Part Number": "XA6719 29000A",
+          "Part Description": "WRAPPER,RH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        }
+      ],
+      "totals": {
+        "非应纳税 Non-Taxable": "0",
+        "货币 Currency": "CNY",
+        "项目合计 LineTotal": "371.1250",
+        "应纳税 Taxable": "419.37000",
+        "税款合计 TotalTax": "48.24624",
+        "定税日期 TaxDate": "11/27/2025",
+        "合计 Total": "419.37124"
+      }
+    },
+    {
+      "source": "dc01a4c7-0028-4c1f-8ee9-f752e8be1bf8_content_list.json",
+      "kv": {
+        "Request By": "CTCF0951李能",
+        "Date": "11/27/2025",
+        "Request No": "SPOCTC2515310",
+        "Order Number": "SE128076",
+        "Ship to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Ship To Address": "广州市黄埔区永吉路39号",
+        "Supplier": "907315",
+        "Invoice to": "ACG广州奥托立夫汽车安全系统有限公司",
+        "Supplier Name": "乾大新材料有限公司",
+        "Supplier mail Address": "wull@kingdomsh.com.cn;lucy@kingdomsh.com.cn;yew@kingdomsh.com.cn",
+        "Project": "86B71 Xpeng X3 HTSAB",
+        "Cost Center": "371A EN AB",
+        "Supplier Addr": "浙江嘉善县姚庄镇万泰路155号",
+        "Plant Project Logistics": "Betty.Chen@autoliv.com",
+        "Supplier Telephone": "0573-84861888",
+        "Buyer": "yonglong.chen@autoliv.com",
+        "Credit Terms": "N120P",
+        "WareHouse Receiver": "GuangLin Wu(18684584436)",
+        "Incoterm": "VMI",
+        "Receive Day": "12/05/2025"
+      },
+      "remark": "X3 HTSAB包布",
+      "items": [
+        {
+          "ID": "1",
+          "Part Number": "XA6719 28800A",
+          "Part Description": "WRAPPER,LH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        },
+        {
+          "ID": "2",
+          "Part Number": "XA6719 29000A",
+          "Part Description": "WRAPPER,RH,X3HTSAB",
+          "Sample Quality Level": "Level 1",
+          "Amount": "125",
+          "Unit": "ea",
+          "Unit Price": "1.4845",
+          "Tax Rate": "13",
+          "Tax Unit Price": "1.67748",
+          "Total Tax": "24.12312",
+          "Total Price": "185.5625",
+          "Comment": "乾大"
+        }
+      ],
+      "totals": {
+        "非应纳税 Non-Taxable": "0",
+        "货币 Currency": "CNY",
+        "项目合计 LineTotal": "371.1250",
+        "应纳税 Taxable": "419.37000",
+        "税款合计 TotalTax": "48.24624",
+        "定税日期 TaxDate": "11/27/2025",
+        "合计 Total": "419.37124"
+      }
+    }
+  ]
+}
